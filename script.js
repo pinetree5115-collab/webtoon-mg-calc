@@ -1,5 +1,3 @@
-import { inject } from '@vercel/analytics';
-inject();
 
 /**
  * 반올림 함수 (소수점 첫째 자리까지)
