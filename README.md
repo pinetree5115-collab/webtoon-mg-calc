@@ -21,14 +21,14 @@
 
 | 구분 | 기술 | 사용 목적 |
 | :--- | :--- | :--- |
-| 언어 (Language) | JavaScript | 모든 MG 정산 및 수익 분석 로직 구현 |
-| 마크업 (Markup) | HTML | 계산기 구조 및 입력 폼 구성 |
-| 스타일링 (Styling) | CSS | 파스텔톤 기반의 세련된 디자인 및 사용자 인터페이스 구현 |
+| **언어 (Language)** | JavaScript | 모든 MG 정산 및 수익 분석 로직 구현 |
+| **마크업 (Markup)** | HTML | 계산기 구조 및 입력 폼 구성 |
+| **스타일링 (Styling)** | CSS | 파스텔톤 기반의 세련된 디자인 및 사용자 인터페이스 구현 |
 
 ### 환경 및 도구
 
 버전 관리: Git & GitHub
-배포: Vercel (Netlify로 갈아탈 예정)
+배포: Netlify
 분석: Google Analytics (GA4)
 개발 환경: VS Code (Visual Studio Code)
 
@@ -38,7 +38,7 @@
 
 ### 1. 사용 방법
 
-1.  배포된 [프로젝트 링크](https://webtoon-mg-calc.vercel.app/)에 접속합니다.
+1.  배포된 [프로젝트 링크](https://webtoon-mg-calc.netlify.app/)에 접속합니다.
 2.  '계약 조건', '연재 정보', '월별 예상 수익' 섹션에 필요한 값을 입력합니다.
 3.  `총 정산 결과 계산하기` 버튼을 클릭하여 결과를 확인합니다.
 
@@ -53,4 +53,4 @@
 
 [GitHub Repository (현재 레포지토리 링크)](https://github.com/pinetree5115-collab/webtoon-mg-calc)
 
-[배포된 웹사이트 링크 (Vercel URL)](https://webtoon-mg-calc.vercel.app/)
+[배포된 웹사이트 링크](https://webtoon-mg-calc.netlify.app/)
