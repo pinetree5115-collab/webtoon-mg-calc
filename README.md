@@ -1,7 +1,5 @@
 # 웹툰 MG 정산 계산기 (Webtoon MG Calculator)
 
-!
-
 ---
 
 ## 소개
